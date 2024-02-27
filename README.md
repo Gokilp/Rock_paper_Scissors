@@ -1,1 +1,1 @@
-# Rock_paper_Scissors
+Rock-Paper-Scissors Game Using OpenCv and mediapipe Hand Detector.
